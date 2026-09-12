@@ -47,3 +47,7 @@ This project helped me practice:
 - Basic game logic
 - Working with images and graphical resources
 - Organizing a desktop application into multiple files
+
+## Screenshot
+
+![Punch-Out Boxing Game](screenshots/gameplay.png)
